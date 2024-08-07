@@ -1,12 +1,11 @@
-import Slider from "./pages/Slider"
+import Slider from "./pages/Slider";
 
 function App() {
-
   return (
     <>
-    <Slider/>
+      <Slider />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
